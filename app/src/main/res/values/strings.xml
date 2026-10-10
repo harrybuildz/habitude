@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Habitude</string>
+
+    <string name="today_title">Today</string>
+    <string name="today_empty_title">No habits yet</string>
+    <string name="today_empty_body">Tap + to add your first habit.</string>
+    <string name="add_habit">Add habit</string>
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="delete_habit">Delete habit</string>
+    <string name="delete_habit_message">Delete “%1$s” and all of its history?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="habit_name_label">Habit name</string>
+    <string name="habit_emoji_label">Pick an emoji</string>
+    <string name="save">Save</string>
+
+    <string name="dark_theme">Dark theme</string>
+    <string name="dark_theme_description">Overrides the system setting once toggled</string>
+    <string name="daily_reminder">Daily reminder</string>
+    <string name="daily_reminder_description">Notifies you about unchecked habits</string>
+    <string name="reminder_hour">Reminder hour</string>
+
+    <string name="reminder_channel_name">Daily reminders</string>
+    <string name="reminder_channel_description">Reminders about unchecked habits</string>
+    <string name="reminder_notification_title">Don’t break your streaks</string>
+</resources>
